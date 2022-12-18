@@ -10,7 +10,7 @@ As a trustworthy and knowledgable person, I can assure you my utmost dedication 
 
 <b><h2>Educational Qualifications</h2></b>
 
-My secondary education began in Lyceum International School, Gampaha.
+My secondary education began in Lyceum International School, Gampaha. 
 
 <br>I undertook my GCE Cambridge Ordinary Level Examination at Lyceum and passed it with six A passes and one B pass.</br>
 <br>I successfully completeled my Advanced Level Examination at the same school with a S pass in Chemistry, a C pass in Physics and a C pass in Biology.</br>
