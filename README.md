@@ -10,6 +10,6 @@ I'm Raveena Ranasinghe; an undergraduate in the Sri Lanka Institute of Informati
 <h2>Educational Qualifications</h2> 
 
 My secondary education began in Lyceum International School, Gampaha. 
-I undertook my GCE Cambridge Ordinary Level Examination at Lyceum and passed it with six A passes and one B pass. 
+<b>I undertook my GCE Cambridge Ordinary Level Examination at Lyceum and passed it with six A passes and one B pass.</b>
 I successfully completeled my Advanced Level Examination at the same school with a S pass in Chemistry, a C pass in Physics and a C pass in Biology.
 As for my Higher Education, I have been studying at SLIIT since October 17th 2022 
