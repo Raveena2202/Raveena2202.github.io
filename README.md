@@ -8,4 +8,6 @@ I'm Raveena Ranasinghe; an undergraduate in the Sri Lanka Institute of Informati
 ![Photo](https://user-images.githubusercontent.com/120706178/208288264-946d6683-4c30-4f10-8985-672032af09b7.jpg)
 
 <h2>Educational Qualifications</h2> 
-sdbvdsn vnsd
+My secondary education began in Lyceum International School, Gampaha. 
+I undertook my GCE Cambridge Ordinary Level Examination at Lyceum and passed it with six A passes and one B pass. 
+I successfully completeled my Advanced Level examination at the same school with a S pass in Chemistry, a C pass in Physics and a C pass in Biology.
