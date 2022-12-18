@@ -40,5 +40,4 @@ Sinhala
   <br>Writing novels</br>
   Listening to music
   
-<a href="file:///C:/Users/USER/Desktop/SLIIT%20Completed%20Assingments/IT1%20HS22084804_Raveena%20Ranasinghe.pdf">My Resume</a> 
-
+  [IT1 HS22084804_Raveena Ranasinghe.pdf](https://github.com/Raveena2202/Raveena2202.github.io/files/10253958/IT1.HS22084804_Raveena.Ranasinghe.pdf)
