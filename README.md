@@ -40,4 +40,5 @@ Sinhala
   <br>Writing novels</br>
   Listening to music
   
-  [IT1 HS22084804_Raveena Ranasinghe.pdf](https://github.com/Raveena2202/Raveena2202.github.io/files/10253958/IT1.HS22084804_Raveena.Ranasinghe.pdf)
+
+[My Resume.pdf](https://github.com/Raveena2202/Raveena2202.github.io/files/10253961/My.Resume.pdf)
